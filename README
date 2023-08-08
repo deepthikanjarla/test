@@ -1,0 +1,6 @@
+I have developed this program on eclipse IDE
+So to run this pgm please follow below steps:
+1) Import the project to eclipse 
+2) Navigate to TermDepositCalculator.java file
+3) Right click and run as "Java Application"
+4) Inputs can be provided via CLI in console section
